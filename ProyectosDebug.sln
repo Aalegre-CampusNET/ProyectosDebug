@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AleatoriosNoRepetidos", "AleatoriosNoRepetidos\AleatoriosNoRepetidos.csproj", "{21C72252-DC70-436A-B369-136E2501D1A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-AleatoriosNoRepetidos", "AleatoriosNoRepetidos\3-AleatoriosNoRepetidos.csproj", "{21C72252-DC70-436A-B369-136E2501D1A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsAleatorios", "SetsAleatorios\SetsAleatorios.csproj", "{5FDA832D-030E-48D7-A939-BE1D8A6E54FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-SetsAleatorios", "SetsAleatorios\1-SetsAleatorios.csproj", "{5FDA832D-030E-48D7-A939-BE1D8A6E54FF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DosColecciones", "DosColecciones\DosColecciones.csproj", "{A8596EC8-1AF6-4870-858C-93A439345EF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2- DosColecciones", "DosColecciones\2- DosColecciones.csproj", "{A8596EC8-1AF6-4870-858C-93A439345EF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
